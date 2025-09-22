@@ -2,14 +2,14 @@
   "name": "nala coin",
   "symbol": "nal",
   "description": "Nala Coin is a community token for fast, fun, and secure digital transfers in and out of your country.",
-  "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/nala.png",
+  "image": "https://github.com/rkyolo26/metadata/blob/main/IMG_0917.PNG",
   "extensions": {
     "twitter": "https://x.com/benji_fernandes?s=21",
   },
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/nala.png",
+        "uri": "https://github.com/rkyolo26/metadata/blob/main/IMG_0917.PNG",
         "type": "image/png"
       }
     ],
